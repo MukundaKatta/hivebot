@@ -72,6 +72,3 @@ hivebot/
 └── package.json
 ```
 
-## License
-
-MIT
